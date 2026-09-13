@@ -1,2 +1,2 @@
 Hello, This is login.txt page
-I have added new line - local
+I have added new line - all sync 
